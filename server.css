@@ -1,0 +1,17 @@
+body {
+    margin :0 ;
+    background-color:rgb(119, 181, 254);    
+    color: white;
+}
+
+.page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+}
+h1 {
+    color:rgb(123, 123, 123) ;
+}
